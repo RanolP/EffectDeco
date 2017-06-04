@@ -1,0 +1,16 @@
+main: me.ranol.effectdeco.EffectDecoPlugin
+name: EffectDeco
+version: 1.0-Dev
+author: Ranol_
+
+commands:
+  effectdeco:
+    aliases: [effdec, edec, ed]
+    permission: effectdeco.*
+    permission-message: "§cYou don't have permission."
+    description: "Main command of EffectDeco"
+
+permissions:
+  effectdeco.*:
+    description: Effect Deco Permission
+    default: op
