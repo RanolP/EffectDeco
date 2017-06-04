@@ -1,0 +1,2 @@
+# EffectDeco
+Minecraft accessory plugin
